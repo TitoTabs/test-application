@@ -1,0 +1,1 @@
+export { default as SelectNavigation } from "./page";
